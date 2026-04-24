@@ -10,3 +10,4 @@ model.train(
     workers=2,      
     device="cpu"     
 )
+#Ayrıca kütüphaneler ve gerekli kurulumlar sağlanarak yapıldı.
